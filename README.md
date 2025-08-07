@@ -6,7 +6,7 @@ A criação é muito simples e fácil.
 Ao longo do curso, espero agregar mais conhecimento técnico e domínio de ferramentas avançadas.
 No final, quero poder criar um agente de IA singular, efetivo e que sirva para atender às necessidades de muitos usuários.
 # Copilot em Branco
-A criação de um agente em branco no Copilot Studio permite que você o customize de maneira personalizada, pessoal.
+A criação de um agente em branco no Copilot Studio permite que você o configure de maneira personalizada, pessoal.
 Você também pode criar tópicos em branco, pernosalizdos, para tratar de determinado tema.
 Dentro de cada tópico, posso criar instuções que facilitem o seu acionamento, com palavras e frases chaves.
 Posso também acionar a uma resposta generativa ligada ao tópico, para respnder a uma pergunta do usuário.
